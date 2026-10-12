@@ -21,18 +21,50 @@
 Especialista en **ciberseguridad defensiva** enfocado en operaciones **SOC** y **respuesta a incidentes**. Mi día a día: triaje de alertas, análisis de logs, caza de amenazas (*threat hunting*) y contención de incidentes en entornos con SIEM, EDR/XDR y SASE. Construyo herramientas y laboratorios propios para afilar la detección.
 
 - 🚨 Trabajo como **Incident Responder** sobre un stack real de Blue Team.
-- 🎓 Certificado en **CompTIA Security+** y **CySA+**.
-- 🧪 Desarrollo laboratorios de **DFIR** y herramientas de *brand protection* y anti-phishing.
+- 🎓 **CompTIA CSAP** (Security+ · CySA+), **CrowdStrike Incident Responder** y +9 certificaciones más.
+- 🔬 Análisis de malware y triaje, forense digital (**DFIR**) y *threat hunting*.
+- 🧪 Desarrollo laboratorios y herramientas de *brand protection* / anti-phishing.
 - 🌎 Venezuela · Español / English.
 
 ---
 
 ## 🎖️ Certificaciones
 
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white)
+![CrowdStrike IR](https://img.shields.io/badge/CrowdStrike-Incident_Responder-E01A22?style=for-the-badge&logo=crowdstrike&logoColor=white)
+![CompTIA CSAP](https://img.shields.io/badge/CompTIA-CSAP-E2231A?style=for-the-badge&logo=comptia&logoColor=white)
 ![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-NSE3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-SOC_L1_%26_L2-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-Certified_Associate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+
+<details>
+<summary><b>📜 Ver las 12 credenciales (emisor y fecha)</b></summary>
+
+<br/>
+
+| Credencial | Emisor | Emitida | Vence |
+|------------|--------|:-------:|:-----:|
+| 🦅 Incident Responder — Learning Path | CrowdStrike University | sep 2026 | — |
+| 🧱 Security Analytics Professional (**CSAP**) — stackable | CompTIA | ago 2026 | ago 2029 |
+| 🔎 Cybersecurity Analyst (**CySA+**) | CompTIA | ago 2026 | ago 2029 |
+| 🛡️ **Security+** | CompTIA | abr 2026 | abr 2029 |
+| 🧱 NSE3 Certified Cybersecurity | Fortinet | oct 2025 | oct 2027 |
+| 🟪 SOC Level 2 | TryHackMe | oct 2025 | oct 2028 |
+| 🦠 Practical Malware Analysis & Triage | TCM Security | sep 2025 | — |
+| 🔵 Blue Team Junior Analyst | Centri | ago 2025 | — |
+| 🟪 SOC Level 1 | TryHackMe | ago 2025 | ago 2028 |
+| 🛰️ SOC Analyst Learning Path | LetsDefend | jul 2025 | — |
+| 🌐 Google Cybersecurity | Google | jun 2025 | — |
+| 💻 Google IT Support | Google | jun 2025 | — |
+
+</details>
+
+---
+
+## 🧠 Aptitudes
+
+Respuesta a incidentes · SIEM · Análisis de logs · Threat hunting · Análisis de malware y triaje · Ingeniería inversa básica · Digital forensics (DFIR) · Análisis de red · Gestión de riesgos · Firewalls / seguridad perimetral · MITRE ATT&CK
 
 ---
 
