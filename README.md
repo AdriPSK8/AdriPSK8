@@ -10,7 +10,7 @@
 
 <br/>
 
-![Perfil](https://komarev.com/ghpvc/?username=AdriPSK8&style=for-the-badge&color=1f6feb&label=VISITAS)
+![](https://komarev.com/ghpvc/?username=AdriPSK8&style=for-the-badge&color=1f6feb&label=VISITAS)
 
 </div>
 
