@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,100:1f6feb&height=200&section=header&text=Adrian%20Perez&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Incident%20Responder%20%7C%20Blue%20Team%20%7C%20SOC&descSize=18&descAlignY=62" alt="Adrian Perez" />
 
-<a href="https://git.io/typing-svg">
+<a href="https://www.linkedin.com/in/adripsk8/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=1F6FEB&center=true&vCenter=true&width=620&lines=Incident+Responder+%F0%9F%9A%A8;Blue+Team+%7C+Threat+Hunting;SIEM+%C2%B7+EDR%2FXDR+%C2%B7+SASE;Detecci%C3%B3n+y+respuesta+a+incidentes" alt="roles" />
 </a>
 
@@ -99,6 +99,17 @@ Especialista en **ciberseguridad defensiva** enfocado en operaciones **SOC** y *
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdriPSK8&hide_border=true&theme=tokyonight&ring=1f6feb&fire=1f6feb" alt="streak" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=AdriPSK8&theme=onedark&no-frame=true&column=7&margin-w=8" alt="trophies" />
+
+</div>
+
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrian_Perez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adripsk8/)
+[![GitHub](https://img.shields.io/badge/GitHub-AdriPSK8-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdriPSK8)
 
 </div>
 
